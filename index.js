@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BOT_STYLE'; //ini nama bot lo
+const BotName = 'ALFBOT'; //ini nama bot lo
 const instagram = 'https://www.instagram.com/Beni_230/';  //ini nama ig lo
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; //ini kapan bot lo on
 const youtube = 'https://m.youtube.com/channel/UCrNO1yUYW0i3xsJp4NGBh4Q';//ini channel YouTube lo
